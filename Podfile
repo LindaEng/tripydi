@@ -1,0 +1,5 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.1'
+pod 'GoogleMaps'
+pod 'SignalR-ObjC', '2.0.0.alpha1'
+pod 'TTTAttributedLabel'
